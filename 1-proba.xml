@@ -1,0 +1,17 @@
+<?xml vrsion="1.0" encoding="UTF-8" standalone="yes"?>
+<Knjige>
+	<Knjiga RedBr="1">
+		<Naslov>Da Vincijev kod</Naslov>
+		<Autor>Dan Brown</Autor>
+		<BrStranica>448</BrStranica>
+		<ISBN>953-201-337-7</ISBN>
+		<Godina>2003</Godina>
+	</Knjiga>
+	<Knjiga RedBr="2">
+		<Naslov>XML Complete</Naslov>
+		<Autor>grupa autora</Autor>
+		<BrStranica>919</BrStranica>
+		<ISBN>0-7821-4033-5</ISBN>
+		<Godina>2001</Godina>
+	</knjiga>
+</Knjige>
