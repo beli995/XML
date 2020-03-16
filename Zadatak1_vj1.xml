@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-  XML datoteka za vježbanje  ->
+<Katalog>
+	<Predmet Tip=DVD>
+		<Naslov>Izgubljeni u prijevodu</Naslov>
+		<Autor>Sofia Coppola</Autor>
+		<Trajanje> >150min</Trajanje>
+		<Godina>2004</Godina>
+		<Cijena>29.99</Cijena>
+	</Predmet Tip=DVD>
+	<Predmet Tip=CD>
+		<Naslov>Never Let Me Down</Naslov>
+		<Autor>David Bowie</Autor>
+		<Godina>2005</Godina>
+		<Cijena>19.99</Cijena>
+	</Predmet Tip=CD>
+	<Predmet Tip=DVD>
+		<Naslov>Pijanist</Naslov>
+		<Autor>Roman Polanski</Autor>
+		<Godina>2003</Godina>
+		<Cijena>15.99</Cijena>
+	</Predmet Tip=DVD>
+</Katalog>
